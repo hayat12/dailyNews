@@ -1,0 +1,12 @@
+.brand-title{
+    font-size: 23px;
+}
+.brand-message{
+    color: lightgray;
+    font-size: 12px;
+}
+@media only screen and (max-width: 991px) {
+    .brand-title{
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,15 @@
+.section-1-1{
+    border: none;
+    min-height: 420px;
+    background-size: 100% 420px;
+    background-repeat: no-repeat;
+    background-image: url('https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/01/16/National-Politics/Images/Botsford180116Trump23719.JPG?uuid=9PYPGPsDEeebXbvw2jEhTQ')
+}
+
+.section-1-2-1{
+    border: none;
+    min-height: 210px;
+    background-size: 100% 210px;
+    background-repeat: no-repeat;
+    background-image: url('https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/01/16/National-Politics/Images/Botsford180116Trump23719.JPG?uuid=9PYPGPsDEeebXbvw2jEhTQ')
+}
